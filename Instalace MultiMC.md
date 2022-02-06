@@ -23,20 +23,20 @@
   `C:/Program Files/Eclipse Adoptium/jdk-8.0.322.6-hotspot/bin/javaw.exe`
 
 - Doporučuji nastavit alokaci paměti na tyhle hodnoty:
-  <img src="https://github.com/datbagrus1337/private/blob/main/images/2022-01-30-19-39-52-image.png" title="" alt="" data-align="center">
+  <img src="https://github.com/datbagrus1337/private/blob/main/2022-01-30-19-39-52-image.png" title="" alt="" data-align="center">
 3. Po dokončení průvodce se vám zobrazí se vám tahle obrazovka:
-   <img src="https://github.com/datbagrus1337/private/blob/main/images/2022-01-30-19-34-25-image.png" title="" alt="" data-align="center">
+   <img src="https://github.com/datbagrus1337/private/blob/main/2022-01-30-19-34-25-image.png" title="" alt="" data-align="center">
 
 # Vytvoření účtu
 
 1. Vytvořte si účet
    kliknutím na obličej na pravém rohu obrazovky a potom na Manage Accounts
-   <img src="https://github.com/datbagrus1337/private/blob/main/images/2022-01-30-19-29-20-image.png" title="" alt="" data-align="center">
+   <img src="https://github.com/datbagrus1337/private/blob/main/2022-01-30-19-29-20-image.png" title="" alt="" data-align="center">
 
 2. Následně klikněte na Add Account
 
 3. Klikněte na Local účet a napište do kolonky Email svou vlastní přezdívku a do kolonky Password náhodné heslo (pro naše účely nebude potřeba)
-   <img src="https://github.com/datbagrus1337/private/blob/main/images/2022-01-30-19-30-22-image.png" title="" alt="" data-align="center">
+   <img src="https://github.com/datbagrus1337/private/blob/main/2022-01-30-19-30-22-image.png" title="" alt="" data-align="center">
 
 4. Můžete přidat více účtů. Výchozí účet můžete nastavit kliknutím na Set Default.
    Bez výchozího výběru se vás MultiMC zeptá, který účet chcete použít při každém spuštění.
